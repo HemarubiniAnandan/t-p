@@ -1,17 +1,7 @@
-# Node.js dependencies
-node_modules/
-package-lock.json
-
-# Logs
+frontend_t/node_modules/
+backend_t/node_modules/
+frontend_t/.env
+backend_t/.env
+frontend_t/build/
+backend_t/dist/
 *.log
-
-# Environment variables
-.env
-
-# Build output
-dist/
-build/
-
-# OS files
-Thumbs.db
-.DS_Store
